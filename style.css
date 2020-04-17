@@ -1,0 +1,45 @@
+html {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+main {
+    position: relative;
+    padding-top: 20px;
+}
+
+.label {
+    font-weight: bold;
+
+}
+#labeltag {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+
+
+#btn{
+    background-color: red;
+    color: black;
+    font-size: larger;
+}
+#btn1{
+    background-color:orange;
+    color: black;
+    text-align: center;
+    font-size: larger;
+    
+}
+#spanmessage{
+    font-weight: lighter;
+    margin: 10px ;
+}
+#balancemessage{
+    font-weight: lighter;
+    margin: 10px ;
+}
+#image{
+    padding-top: 10px;
+    
+}
